@@ -40,10 +40,9 @@
 
 ### 🎥 在线观看（推荐）
 
-<video width="800" controls style="max-width: 100%; border-radius: 8px;">
-  <source src="https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4" type="video/mp4">
-  您的浏览器不支持视频播放，请<a href="https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4">点击下载视频</a>
-</video>
+<video src="https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4" controls="controls" width="800" height="450" style="max-width: 100%; border-radius: 8px;"></video>
+
+> 💡 **提示**：如果视频无法播放，请将视频上传到 GitHub Issues 中获取 assets 链接。方法：创建一个 issue，将视频文件拖拽到评论框中上传，然后复制生成的 assets 链接替换上面的 src。
 
 ### 📺 Bilibili 视频（高清版）
 
