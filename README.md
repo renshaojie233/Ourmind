@@ -1,5 +1,7 @@
 # 📚 Ourmind - 智能文档思维导图生成器
 
+> 📚 **前置项目**：本项目基于 [mymind-mind-map](https://github.com/RongjiLi6730/mymind-mind-map) 开发
+
 ## 📖 项目介绍
 
 **Ourmind** 是一款基于 AI 大模型的智能文档分析工具，旨在帮助用户快速理解和梳理文档内容。通过上传 PDF、DOCX、TXT 等格式的文档，Ourmind 能够自动分析文档结构，提取关键信息，并生成结构化的思维导图，让复杂的文档内容变得一目了然。
