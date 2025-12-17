@@ -430,8 +430,11 @@ A: 目前需要联网调用AI API。如需离线版本，可以考虑使用本�
 ## 👤 作者
 
 - **任少杰**
-- Email: rsjscu@163.com
-- GitHub: [@renshaojie233](https://github.com/renshaojie233)
+  - Email: rsjscu@163.com
+  - GitHub: [@renshaojie233](https://github.com/renshaojie233)
+
+- **彭怀玉**
+  - Email: penghy21@tsinghua.org.cn
 
 ## 🙏 致谢
 
