@@ -38,15 +38,18 @@
 
 **📹 完整功能演示视频：**
 
-### 🎥 Bilibili 视频（推荐）
+### 🎥 在线观看（推荐）
 
-👉 **[📺 点击观看 Bilibili 演示视频](https://www.bilibili.com/video/BV1Mvq5BjECX/?spm_id_from=333.1007.0.0)**
+<video width="800" controls style="max-width: 100%; border-radius: 8px;">
+  <source src="https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4" type="video/mp4">
+  您的浏览器不支持视频播放，请<a href="https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4">点击下载视频</a>
+</video>
 
-### 📄 GitHub 视频文件
+### 📺 Bilibili 视频（高清版）
 
-👉 **[🎥 点击这里观看完整演示视频（浏览器中直接播放）](https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4)**
+👉 **[📺 点击观看 Bilibili 高清演示视频](https://www.bilibili.com/video/BV1Mvq5BjECX/?spm_id_from=333.1007.0.0)**
 
-*提示：Bilibili 视频提供更好的播放体验，GitHub 视频文件可直接在浏览器中播放*
+*提示：上方视频可直接在页面中播放，Bilibili 视频提供更高清的画质和更好的播放体验*
 
 *演示视频展示了完整的上传文档、AI分析和思维导图生成流程*
 
