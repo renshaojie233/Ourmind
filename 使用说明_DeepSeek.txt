@@ -1,0 +1,35 @@
+═══════════════════════════════════════════════════════
+   DeepSeek API 配置完成！
+═══════════════════════════════════════════════════════
+
+✅ 您的 DeepSeek API Key 已成功配置！
+
+🚀 一键启动（现在可以使用真实的AI功能）：
+   ./quick_start.sh
+
+📱 启动后访问：
+   前端: http://localhost:3000
+   后端: http://localhost:8000
+
+🤖 AI 配置信息：
+   - API 提供商: DeepSeek
+   - API 端点: https://api.deepseek.com
+   - 模型: deepseek-chat
+   - API Key: 已配置在 .env 文件中
+
+💡 使用步骤：
+   1. 运行 ./quick_start.sh
+   2. 打开浏览器访问 http://localhost:3000
+   3. 上传文档（PDF、DOCX、TXT格式）
+   4. DeepSeek AI 将分析文档并生成思维导图
+   5. 查看结果！
+
+🧪 测试配置：
+   source ourmind_env/bin/activate
+   python test_api.py
+
+🛑 停止服务：
+   按 Ctrl+C
+
+═══════════════════════════════════════════════════════
+

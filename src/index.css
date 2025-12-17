@@ -1,0 +1,159 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'STKaiti', 'KaiTi', '楷体', 'SimKai', 'STSong', '宋体', 'SimSun', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow: hidden;
+  /* 纸质背景纹理 */
+  background: 
+    linear-gradient(90deg, rgba(139, 90, 43, 0.03) 1px, transparent 1px),
+    linear-gradient(rgba(139, 90, 43, 0.03) 1px, transparent 1px),
+    radial-gradient(circle at 20% 50%, rgba(139, 90, 43, 0.05) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(101, 67, 33, 0.05) 0%, transparent 50%),
+    linear-gradient(135deg, #f5e6d3 0%, #e8d5c4 50%, #d4c4b0 100%);
+  background-size: 20px 20px, 20px 20px, 500px 500px, 500px 500px, 100% 100%;
+  background-attachment: fixed;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* 自定义动画 */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes blob {
+  0%, 100% {
+    transform: translate(0, 0) scale(1);
+  }
+  33% {
+    transform: translate(30px, -50px) scale(1.1);
+  }
+  66% {
+    transform: translate(-20px, 20px) scale(0.9);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.6s ease-out;
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.6s ease-out backwards;
+}
+
+.animate-blob {
+  animation: blob 7s infinite;
+}
+
+.animation-delay-2000 {
+  animation-delay: 2s;
+}
+
+.animation-delay-4000 {
+  animation-delay: 4s;
+}
+
+/* 滚动条美化 - 棕色水墨风格 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(139, 90, 43, 0.1);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, #8b6f47 0%, #6b4e37 100%);
+  border-radius: 10px;
+  border: 1px solid rgba(139, 90, 43, 0.3);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, #6b4e37 0%, #5a3f2a 100%);
+}
+
+/* 选中文本样式 - 棕色 */
+::selection {
+  background-color: rgba(139, 90, 43, 0.3);
+  color: #3d2817;
+}
+
+/* PDF 高亮脉冲动画 - 棕色水墨风格 */
+@keyframes highlight-pulse {
+  0%, 100% {
+    box-shadow: 0 0 0 2px rgba(139, 90, 43, 0.4);
+    transform: scale(1);
+  }
+  50% {
+    box-shadow: 0 0 0 4px rgba(139, 90, 43, 0.6), 0 0 20px rgba(101, 67, 33, 0.4);
+    transform: scale(1.05);
+  }
+}
+
+/* 纸质纹理类 */
+.paper-texture {
+  background: 
+    linear-gradient(90deg, rgba(139, 90, 43, 0.05) 1px, transparent 1px),
+    linear-gradient(rgba(139, 90, 43, 0.05) 1px, transparent 1px),
+    radial-gradient(circle at 20% 50%, rgba(139, 90, 43, 0.08) 0%, transparent 50%),
+    radial-gradient(circle at 80% 80%, rgba(101, 67, 33, 0.08) 0%, transparent 50%),
+    linear-gradient(135deg, #f5e6d3 0%, #e8d5c4 100%);
+  background-size: 15px 15px, 15px 15px, 300px 300px, 300px 300px, 100% 100%;
+  position: relative;
+}
+
+.paper-texture::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 2px,
+      rgba(139, 90, 43, 0.03) 2px,
+      rgba(139, 90, 43, 0.03) 4px
+    );
+  pointer-events: none;
+}
+
+/* 水墨晕染效果 */
+.ink-blur {
+  filter: drop-shadow(0 2px 4px rgba(101, 67, 33, 0.3));
+}
+
