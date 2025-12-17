@@ -21,11 +21,11 @@
 
 **📹 完整功能演示视频：**
 
-https://github.com/user-attachments/assets/Ourmind_demo.mp4
+<video src="pic/Ourmind_demo.mp4" controls width="100%" style="max-width: 800px;">
+  您的浏览器不支持视频播放，请<a href="pic/Ourmind_demo.mp4">点击下载视频</a>
+</video>
 
 *演示视频展示了完整的上传文档、AI分析和思维导图生成流程*
-
-**或者直接查看项目中的演示视频：** [`pic/Ourmind_demo.mp4`](pic/Ourmind_demo.mp4)
 
 </div>
 
