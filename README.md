@@ -40,14 +40,7 @@
 
 ### 🎥 GitHub 视频播放（推荐）
 
-<video src="https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4" controls="controls" width="800" height="450" style="max-width: 100%; border-radius: 8px;"></video>
-
-> ⚠️ **注意**：如果上方视频无法播放，请按照以下步骤获取 GitHub assets 链接：
-> 1. 访问仓库的 [Issues 页面](https://github.com/renshaojie233/Ourmind/issues)
-> 2. 创建一个新 issue（或使用已有 issue）
-> 3. 将 `pic/Ourmind_demo.mp4` 文件拖拽到评论框中上传
-> 4. 上传后会生成一个 assets 链接（格式：`https://github.com/renshaojie233/Ourmind/assets/数字ID/文件名`）
-> 5. 复制该链接，替换上面 video 标签中的 `src` 属性
+<video src="https://private-user-images.githubusercontent.com/238256068/527525511-01c7c216-b0db-4a80-a771-e51df5fd9c5a.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjU5Njg2NzYsIm5iZiI6MTc2NTk2ODM3NiwicGF0aCI6Ii8yMzgyNTYwNjgvNTI3NTI1NTExLTAxYzdjMjE2LWIwZGItNGE4MC1hNzcxLWU1MWRmNWZkOWM1YS5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTIxN1QxMDQ2MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lOGMyNmNmOGNhMzc1MTkzYWY2ZWMxYjU4ZjdkMGUyZjQ3OTFmYWI4ZDVjNzFlMTQ3N2ZmMmMzOGQ1MWM1YzdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.-QViqvFdYBqwQ6nmk3N0rQBO0Dzw6mwpuzn12pi5QKA" controls="controls" width="800" height="450" style="max-width: 100%; border-radius: 8px;"></video>
 
 ### 📺 Bilibili 视频（高清版）
 
