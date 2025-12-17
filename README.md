@@ -438,6 +438,14 @@ A: 目前需要联网调用AI API。如需离线版本，可以考虑使用本�
 
 ## 🙏 致谢
 
+### 📚 前置项目
+
+本项目基于以下优秀项目开发：
+
+- [mymind-mind-map](https://github.com/RongjiLi6730/mymind-mind-map) - 思维导图生成器的基础项目
+
+### 🛠️ 使用的开源项目和服务
+
 感谢以下优秀的开源项目和服务：
 
 - [OpenAI](https://openai.com/) - 提供强大的AI能力
