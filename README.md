@@ -38,17 +38,22 @@
 
 **📹 完整功能演示视频：**
 
-### 🎥 在线观看（推荐）
+### 🎥 GitHub 视频播放（推荐）
 
 <video src="https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4" controls="controls" width="800" height="450" style="max-width: 100%; border-radius: 8px;"></video>
 
-> 💡 **提示**：如果视频无法播放，请将视频上传到 GitHub Issues 中获取 assets 链接。方法：创建一个 issue，将视频文件拖拽到评论框中上传，然后复制生成的 assets 链接替换上面的 src。
+> ⚠️ **注意**：如果上方视频无法播放，请按照以下步骤获取 GitHub assets 链接：
+> 1. 访问仓库的 [Issues 页面](https://github.com/renshaojie233/Ourmind/issues)
+> 2. 创建一个新 issue（或使用已有 issue）
+> 3. 将 `pic/Ourmind_demo.mp4` 文件拖拽到评论框中上传
+> 4. 上传后会生成一个 assets 链接（格式：`https://github.com/renshaojie233/Ourmind/assets/数字ID/文件名`）
+> 5. 复制该链接，替换上面 video 标签中的 `src` 属性
 
 ### 📺 Bilibili 视频（高清版）
 
 👉 **[📺 点击观看 Bilibili 高清演示视频](https://www.bilibili.com/video/BV1Mvq5BjECX/?spm_id_from=333.1007.0.0)**
 
-*提示：上方视频可直接在页面中播放，Bilibili 视频提供更高清的画质和更好的播放体验*
+*提示：Bilibili 视频提供更高清的画质和更好的播放体验，推荐观看*
 
 *演示视频展示了完整的上传文档、AI分析和思维导图生成流程*
 
