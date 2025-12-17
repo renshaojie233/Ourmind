@@ -19,13 +19,11 @@
 
 <div align="center">
 
-**📹 完整功能演示视频：**
+**📹 完整功能演示视频（点击下方链接，视频将在浏览器中直接播放）：**
 
-[![演示视频](https://img.shields.io/badge/点击观看演示视频-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://github.com/renshaojie233/Ourmind/blob/main/pic/Ourmind_demo.mp4?raw=true)
+👉 **[🎥 点击这里观看完整演示视频](https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4)**
 
-**或者直接点击下方链接观看：**
-
-👉 [**点击这里观看完整演示视频**](https://github.com/renshaojie233/Ourmind/raw/main/pic/Ourmind_demo.mp4)
+*提示：点击链接后，视频会在新标签页中打开并自动播放*
 
 *演示视频展示了完整的上传文档、AI分析和思维导图生成流程*
 
